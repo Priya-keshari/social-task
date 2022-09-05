@@ -1,0 +1,15 @@
+.form1 {
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 650px;
+}
+.address {
+    margin-left: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.email {
+    margin-left: 15px;
+    margin-right: 15px;
+}
